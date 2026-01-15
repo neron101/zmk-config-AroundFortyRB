@@ -32,7 +32,7 @@
         };
 
         auto {
-            bindings = <&lt 8 SPACE>;
+            bindings = <&lt 6 SPACE>;
             key-positions = <14 13>;
         };
     };
